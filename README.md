@@ -42,7 +42,7 @@ This dashboard analyzes consumer demographic data to understand bike purchasing 
 
   
 ## Files Included
-- DashBoard.png: Dashboard Preview
-- Bike_buyers.xlsx: Raw Dataset
-- Excel Project - Bike Sales Dashboard.xlsx: Excel dashboard file
+- `DashBoard.png`: Dashboard Preview
+- `Bike_buyers`: Raw Dataset
+- `Excel Project - Bike Sales Dashboard`: Excel dashboard file
 

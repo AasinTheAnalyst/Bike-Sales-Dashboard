@@ -7,6 +7,12 @@ This is my very first data visualization project using **Microsoft Excel**. The 
 This dashboard analyzes consumer demographic data to understand bike purchasing behavior based on gender, marital status, region, and commute distance.
 
 
+## Dataset Features
+-	Demographic info: Age, Gender, Marital Status, Income, Region
+-	Lifestyle choices: Cars, Commute Distance, Home Ownership
+-	Target column: Whether the consumer purchased a bike
+
+
 ## Tools & Techniques Used
 - MS Excel (Pivot Tables, Charts, Slicers)
 - Conditional Formatting
@@ -17,13 +23,17 @@ This dashboard analyzes consumer demographic data to understand bike purchasing 
 - Married customers tend to purchase more bikes
 - North America has the highest buyer percentage
 - Middle Age Group dominate the bike purchase
+- Average income of buyers is $57,963
+- 1-2 miles is the most common commute distance among buyers
 
 
 ## What I Did
-- Cleaned raw data
-- Built pivot tables and interactive charts
-- Designed a slicer-driven dashboard
-- Added KPI metrics
+- Cleaned raw dataset
+- Built pivot tables to summarize categorical data
+- Built charts based on pivot tables
+- Derived key insights through charts and pivot tables
+- Designed an interactive dashboard with slicers 
+- Added KPI metrics (like total customers, total buyers, purchase rate etc.)
 
 
 ## How to Use
@@ -38,7 +48,7 @@ This dashboard analyzes consumer demographic data to understand bike purchasing 
 - Creating interactive charts, different types of charts for different data
 - Dashboard design & creating a single-page dashboard layout
 - Adding interactivity through slicers
-- Displaying metric values using formulas
+- Displaying metrics values using formulas
 
   
 ## Files Included
